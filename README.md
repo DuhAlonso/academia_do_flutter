@@ -5,7 +5,9 @@
 - [x] Configurando Ambiente de Desenvolvimento
 - [x] Dart Fundamentos
 - [x] Dart Funções e Coleções
-- [ ] Dart POO( Programação Orientada a Objeto)
+- [x] Dart POO( Programação Orientada a Objeto)
+- [ ] Dart Async
+- [ ] Dart Streams
 - [ ] ...
 
 ## Desafios:

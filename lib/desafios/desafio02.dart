@@ -60,7 +60,8 @@ void main() {
   print(pessoasIdade);
 
   //! 4 - Encontre a pessoa mais velha e apresente o nome dela.
-  pessoas1.sort((pessoa01, pessoa02) {
+  final pessoaMaisVela = [...pessoas1];
+  pessoaMaisVela.sort((pessoa01, pessoa02) {
     final pessoaDados1 = pessoa01.split('|');
     final pessoaDados2 = pessoa02.split('|');
     final idadepessoa1 = int.parse(pessoaDados1[1]);
