@@ -6,8 +6,11 @@
 - [x] Dart Fundamentos
 - [x] Dart Funções e Coleções
 - [x] Dart POO( Programação Orientada a Objeto)
-- [ ] Dart Async
-- [ ] Dart Streams
+- [X] Dart Async
+- [X] Dart Streams
+- [x] Dart Banco de dados
+- [ ] Dart desafio final
+- [ ] Flutter primeiros passos
 - [ ] ...
 
 ## Desafios:
