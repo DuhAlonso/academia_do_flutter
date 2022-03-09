@@ -9,7 +9,7 @@
 - [X] Dart Async
 - [X] Dart Streams
 - [x] Dart Banco de dados
-- [ ] Dart desafio final
+- [x] Dart desafio final
 - [ ] Flutter primeiros passos
 - [ ] ...
 
@@ -20,6 +20,7 @@ Desafio 02 -  [Dart Funções e Coleções](https://github.com/DuhAlonso/academi
 
 ## Até o momento: 
 Já conhecia um pouco de flutter porém queria me aprofundar mais, subir de nível... E acho que é a proposta do curso. Em minha opinião o curso é para aqueles que realmente querem codar, sem enrolação, é mão na massa mesmo. Somente nos primeiros módulos já aprendi muitas coisas, pois o Rodrigo nos ensina como realizar uma tarefa de diferentes maneiras, assim mostrando inúmeros recursos que o Dart nos oferece.
+Edit 01: Olha, neste momento acabo de concluir o módulo de Dart, e tenho que dizer, aprendi muuuuito, inúmeros conceitos que ainda não conhecia. Confesso que estava bem confuso em relação a POO mas consegui esclarecer muitas dúvidas no decorrer das aulas... Ancioso para entrar no módulo1 de flutter!
 
 </br>
 
