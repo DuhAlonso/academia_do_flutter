@@ -8,7 +8,7 @@
    - [👨🏽‍💻 Desafios](#Desafios)
    - [📅 Até o momento](#at%C3%A9-o-momento)
    - [📲 Apps criados no curso](#Apps-criados-no-curso)
-   - [📞 Contato](#-Meu-contato)
+   - [📞 Contato](#-Meu-contato-)
    - [📝 Licença](#LICENSE)
 
    </p>
