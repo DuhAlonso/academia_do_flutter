@@ -28,8 +28,8 @@
 - [x] Flutter Fundamentos
 - [x] Flutter mão na massa
 - [x] Flutter Gerência de Estado
-- [ ] InheritedWidget
-- [ ] Sqlite com Flutter
+- [x] InheritedWidget
+- [x] Sqlite com Flutter
 - [ ] Package Provider
 - [ ] TodoList Provider e SQLIte em arquitetura de Módulos
 - [ ] ...
@@ -40,7 +40,9 @@ Desafio 01 - [Dart Fundamentos](https://github.com/DuhAlonso/academia_do_flutter
 
 Desafio 02 -  [Dart Funções e Coleções](https://github.com/DuhAlonso/academia_do_flutter/blob/main/lib/desafios/desafio01.dart)
 
-Desafio 03 -  [Instagram Clone](https://github.com/DuhAlonso/desafio_af_insta_clone)
+Desafio 03 -  [Dart Funções e Coleções](https://github.com/DuhAlonso/academia_do_flutter/blob/main/lib/desafios/desafio%20final%20dart/desafio_final_dart.dart)
+
+Desafio 04 -  [Instagram Clone](https://github.com/DuhAlonso/desafio_af_insta_clone)
 
 <h2>Até o momento</h2>
 <p>
