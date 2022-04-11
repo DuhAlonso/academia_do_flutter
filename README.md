@@ -30,8 +30,13 @@
 - [x] Flutter Gerência de Estado
 - [x] InheritedWidget
 - [x] Sqlite com Flutter
-- [ ] Package Provider
-- [ ] TodoList Provider e SQLIte em arquitetura de Módulos
+- [x] Package Provider
+- [x] TodoList Provider e SQLIte em arquitetura de Módulos
+- [x] Freezed
+- [ ] Bloc
+- [ ] Mobx
+- [ ] Flutter Modular
+- [ ] Splash Screen Nativa
 - [ ] ...
 
 <h2>Desafios</h2>
@@ -51,6 +56,8 @@ Já conhecia um pouco de flutter porém queria me aprofundar mais, subir de nív
 Edit 01: Olha, neste momento acabo de concluir o módulo de Dart, e tenho que dizer, aprendi muuuuito, inúmeros conceitos que ainda não conhecia. Confesso que estava bem confuso em relação a POO mas consegui esclarecer muitas dúvidas no decorrer das aulas... Ansioso para entrar no módulo de flutter!
 
 Edit 02: Após concluir alguns módulos de flutter já sou capaz de desenvolver inúmeras telas usando os principais widgets do flutter... Também já consigo fazer a gerência de estado do app com os gerenciados que estão incorporados no flutter. Claro que estou fazendo apps mais simples, mas em pouco tempo já vou estar mergulhado em aplicações mais complexas.
+
+Edit 03: Após concluir o módulo ToDo List que basicamente é um curso a parte, já consigo fazer aplicações utilizando o Provider, no app utilizamos ele como gerenciador de estado e apesar de parecer um pouco complexo durante o curso fui entendo com funciona e que ele usa o Change Notifier por baixo dos panos. Ele é um pacote bem completo, e dá conta do recado.
 </p>
 
 <h2>Apps criados no curso</h2>
