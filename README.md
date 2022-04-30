@@ -23,6 +23,7 @@
 - [X] Dart Async
 - [X] Dart Streams
 - [x] Dart Banco de dados
+- [ ] Dart Consumo de APIs
 - [x] Dart desafio final
 - [x] Flutter primeiros passos
 - [x] Flutter Fundamentos
@@ -33,7 +34,7 @@
 - [x] Package Provider
 - [x] TodoList Provider e SQLIte em arquitetura de Módulos
 - [x] Freezed
-- [ ] Bloc
+- [x] Bloc
 - [ ] Mobx
 - [ ] Flutter Modular
 - [ ] Splash Screen Nativa
