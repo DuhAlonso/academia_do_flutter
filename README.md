@@ -23,7 +23,7 @@
 - [X] Dart Async
 - [X] Dart Streams
 - [x] Dart Banco de dados
-- [ ] Dart Consumo de APIs
+- [x] Dart Consumo de APIs
 - [x] Dart desafio final
 - [x] Flutter primeiros passos
 - [x] Flutter Fundamentos
@@ -66,6 +66,8 @@ Edit 03: Após concluir o módulo ToDo List que basicamente é um curso a parte,
 App 01 -  [IMC Manager State](https://github.com/DuhAlonso/imc_manager_state_default)
 App feito com base no curso da academia do flutter no modulo de gerenciamento de estados.
 
+App 02 -  [Todo List com Provider](https://github.com/DuhAlonso/todo_list_provider)
+ Um aplicativo de lista de tarefas, no qual vai te ajudar a lembrar tudo que tem que fazer em um determinado dia.
 ---
 
 </br>
